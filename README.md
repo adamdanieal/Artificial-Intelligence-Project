@@ -125,20 +125,16 @@ In the next two sections, we will train our face mask detector.
 
 ## E.  RESULT AND CONCLUSION
 
-Detecting COVID-19 face masks with OpenCV in real-time
+Detecting the text using Text Detection OpenCV
 
-You can then launch the mask detector in real-time video streams using the following command:
-- $ python detect_mask_video.py
-- [INFO] loading face detector model...
-- INFO] loading face mask detector model...
-- [INFO] starting video stream...
+Text Detection will detect the every part of the word in the input images, it will display the text contain in the images
 
-[![Figure5](https://img.youtube.com/vi/wYwW7gAYyxw/0.jpg)](https://www.youtube.com/watch?v=wYwW7gAYyxw "Figure5")
+![Figure 5](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_dataset.jpg)
 
-Figure 5: Mask detector in real-time video streams
+In Figure 5 : detecting the input images, as we can see that it detects correctly and precise as long as the word is not crooked.
 
-In Figure 5, you can see that our face mask detector is capable of running in real-time (and is correct in its predictions as well.
-
+As for conlcusion, the text detection is able to correctly detect the word in that selected images as long as the input text in the image is not crooked. We can say 
+that the text detection system is 80% accurate to detect the text in the input images.
 
 
 ## F.   PROJECT PRESENTATION 
