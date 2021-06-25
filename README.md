@@ -129,7 +129,7 @@ Detecting the text using Text Detection OpenCV
 
 Text Detection will detect the every part of the word in the input images, it will display the text contain in the images
 
-![Figure 5](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_dataset.jpg)
+![Figure 5](https://github.com/hazimrizal/Artificial-Intelligence-Project/blob/main/images/sampletest.png)
 
 In Figure 5 : detecting the input images, as we can see that it detects correctly and precise as long as the word is not crooked.
 
